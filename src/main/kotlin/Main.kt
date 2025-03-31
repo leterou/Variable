@@ -1,3 +1,12 @@
 fun main(args: Array<String>) {
-    println("Hello Super World!")
+
+    var n = 5
+    val n2 = 11
+
+    println(n)
+    n = -9999
+    println(n)
+    val eiffelTowerHeight = 324
+    val n3: Int = 111
+
 }
